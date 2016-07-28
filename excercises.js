@@ -57,7 +57,7 @@ musicalChairs.shift()
 console.log(musicalChairs) // Shift your seat to the right! The stool is gone!
 
 // .unshift()
-const band = ['percussion', 'tuba', 'saxiphone', 'horn']
+const band = ['percussion', 'tuba', 'saxophone', 'horn']
 band.unshift('flute', 'clarinet')
 console.log(band) // Even though the woodwinds arrived late, they still had to sit up front.
 
